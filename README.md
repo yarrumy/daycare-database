@@ -19,13 +19,10 @@ The MySQL database encompasses over 300 records distributed across 20+ tables, p
 
 ## Usage
 1. **Clone the Repository**:
-2.  **Set Up MySQL Database**: 
-- Import the SQL file provided in the repository to set up the database structure.
-3. **Execute SQL Queries**: 
-- Use SQL Workbench or any MySQL client to execute queries for data retrieval and analysis.
-4. **Generate Reports**: 
-- Utilize SQL Workbench to generate insightful reports based on the database data.
-- 
+2.  **Set Up MySQL Database**: Import the SQL file provided in the repository to set up the database structure.
+3. **Execute SQL Queries**: Use SQL Workbench or any MySQL client to execute queries for data retrieval and analysis.
+4. **Generate Reports**: Utilize SQL Workbench to generate insightful reports based on the database data.
+  
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
